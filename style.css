@@ -52,3 +52,36 @@
     padding: 2px 6px;
     font-size: 12px;
 }
+
+
+
+/* Mobile Responsive view  */
+
+@media screen and (max-width: 768px) {
+    .main-header {
+        flex-wrap: wrap;
+        padding: 10px 3%;
+    }
+
+    .logo {
+        order: 1;
+    }
+
+    .logo img {
+        height: 60px;
+    }
+
+    .header-icons {
+        order: 2;
+    }
+
+    .search-container {
+        order: 3;
+        flex-basis: 100%;
+        margin-top: 15px;
+    }
+
+    .search-container input {
+        padding: 8px 15px;
+    }
+}
