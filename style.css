@@ -1,5 +1,6 @@
 .main-header {
     display: flex;
+    flex-direction: row;
     justify-content: space-between;
     align-items: center;
     padding: 15px 5%;
@@ -7,7 +8,7 @@
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 .logo img {
-    height: 90px;
+    height: 110px;
 }
 
 .search-container {
@@ -63,12 +64,12 @@
         padding: 10px 3%;
     }
 
-    .logo {
+    /* .logo {
         order: 1;
-    }
+    } */
 
     .logo img {
-        height: 60px;
+        height: 80px;
     }
 
     .header-icons {
