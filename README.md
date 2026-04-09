@@ -2,112 +2,66 @@
 
 ## 📌 Overview
 
-This is a simple and interactive **Mini E-commerce Shopping Web Application** built with modern frontend technologies.
-The project demonstrates core e-commerce functionalities like product listing, adding items to cart, removing items, and calculating total price dynamically.
+This is a simple **Mini E-commerce Shopping Web Application** built using HTML, CSS, and JavaScript.
+It demonstrates core shopping cart functionalities like adding products, removing items, and dynamic total price calculation.
 
-🔗 **Live Demo:** [https://everluma.github.io/mini-E-commerce-shop/](https://everluma.github.io/mini-E-commerce-shop/)
-
----
-
-## 🚀 Key Features
-
-* 🛍️ Product listing with clean UI
-* ➕ Add to cart functionality
-* ➖ Remove items from cart
-* 💰 Automatic total price calculation
-* 🧾 Cart quantity tracking
-* ⚡ Responsive and user-friendly design
-* 🔄 Real-time UI updates without page reload
+🔗 Live Link: [https://everluma.github.io/mini-E-commerce-shop/](https://everluma.github.io/mini-E-commerce-shop/)
 
 ---
 
-## 🧰 Tech Stack
+## ⚙️ Technologies
 
 * HTML5
 * CSS3
 * JavaScript (Vanilla JS)
 * DOM Manipulation
-* Local State Management (Frontend)
+
+---
+
+## ✨ Features
+
+* 🛍️ Product listing system
+* ➕ Add to cart functionality
+* ➖ Remove items from cart
+* 💰 Dynamic total price calculation
+* 🧾 Cart quantity tracking
+* ⚡ Instant UI update without reload
+
+---
+
+## 📦 Dependencies
+
+* No external framework used
+* Pure HTML, CSS, JavaScript
+* No backend required
+
+---
+
+## 🖥️ Run Locally
+
+```bash
+git clone https://github.com/everluma/mini-E-commerce-shop.git
+cd mini-E-commerce-shop
+```
+
+Then open:
+
+```
+index.html
+```
 
 ---
 
 ## 📸 Screenshot
 
-*(Add your project screenshot here for better presentation)*
-Example:
-
-```md
-![Mini E-commerce Shop](./screenshot.png)
-```
+![Mini E-commerce Shop](./mini-e-commerce-shop.jpeg)
 
 ---
 
-## ⚙️ Dependencies
+## 🔗 Links
 
-This project uses only core frontend technologies:
-
-* No external framework required
-* No backend dependencies
-* No database integration
-
-(Optional: If you used any CDN/library, add it here)
+* 🌐 Live Site: [https://everluma.github.io/mini-E-commerce-shop/](https://everluma.github.io/mini-E-commerce-shop/)
+* 💻 GitHub Repo: [https://github.com/everluma/mini-E-commerce-shop](https://github.com/everluma/mini-E-commerce-shop)
 
 ---
 
-## 🧑‍💻 How to Run Locally
-
-Follow these steps to run the project on your local machine:
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/everluma/mini-E-commerce-shop.git
-
-# 2. Go to project folder
-cd mini-E-commerce-shop
-
-# 3. Open index.html in browser
-```
-
-Or simply:
-
-* Download ZIP
-* Extract
-* Open `index.html` in any browser
-
----
-
-## 📂 Project Structure
-
-```
-mini-E-commerce-shop/
-│── index.html
-│── style.css
-│── script.js
-│── assets/
-```
-
----
-
-## 🌟 Future Improvements
-
-* User authentication system
-* Backend integration (Node.js / Firebase)
-* Product filtering and search
-* Wishlist feature
-* Payment gateway integration
-
----
-
-## 👨‍💻 Author
-
-**Everluma**
-🔗 GitHub: [https://github.com/everluma](https://github.com/everluma)
-
----
-
-যদি তুমি চাও, আমি তোমার জন্য:
-✅ Profile README (GitHub profile page সম্পূর্ণ ডিজাইন)
-✅ অন্য 2টা pinned repo README
-✅ বা পুরো GitHub profile professional বানিয়ে দিতে পারি
-
-বললেই করে দেব 👍
